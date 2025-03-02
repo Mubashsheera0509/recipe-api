@@ -35,7 +35,5 @@ dbName:"RECIPE_APP_2025",
 
 app.listen(port,()=>console.log(`server is running on port ${port}`));
 
-// username = mubashsheera555
-// password = Il69wbTcNMbN1F0S
-// mongodb+srv://mubashsheera555:<db_password>@cluster0.1zmkd.mongodb
+
 
